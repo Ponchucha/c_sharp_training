@@ -1,0 +1,15 @@
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\bin\Debug\net6.0\Example002_sum.exe
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\bin\Debug\net6.0\Example002_sum.deps.json
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\bin\Debug\net6.0\Example002_sum.runtimeconfig.json
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\bin\Debug\net6.0\Example002_sum.dll
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\bin\Debug\net6.0\Example002_sum.pdb
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\obj\Debug\net6.0\Example002_sum.csproj.AssemblyReference.cache
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\obj\Debug\net6.0\Example002_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\obj\Debug\net6.0\Example002_sum.AssemblyInfoInputs.cache
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\obj\Debug\net6.0\Example002_sum.AssemblyInfo.cs
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\obj\Debug\net6.0\Example002_sum.csproj.CoreCompileInputs.cache
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\obj\Debug\net6.0\Example002_sum.dll
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\obj\Debug\net6.0\refint\Example002_sum.dll
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\obj\Debug\net6.0\Example002_sum.pdb
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\obj\Debug\net6.0\Example002_sum.genruntimeconfig.cache
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\C sharp education\lection01\Example002_sum\obj\Debug\net6.0\ref\Example002_sum.dll
