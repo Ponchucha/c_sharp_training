@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ponch\\.nuget\\packages\\": {}
+    "C:\\Users\\Аня\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ponch\\YandexDisk-vgkulakov\\Гостиница\\Аннины материалы\\Анина учёба\\C sharp education\\lection01\\Example002_sum\\Example002_sum.csproj",
+      "projectUniqueName": "C:\\Users\\Аня\\Desktop\\C sharp training\\c_sharp_training\\Example003_sum\\Example002_sum.csproj",
       "projectName": "Example002_sum",
-      "projectPath": "C:\\Users\\ponch\\YandexDisk-vgkulakov\\Гостиница\\Аннины материалы\\Анина учёба\\C sharp education\\lection01\\Example002_sum\\Example002_sum.csproj",
-      "packagesPath": "C:\\Users\\ponch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ponch\\YandexDisk-vgkulakov\\Гостиница\\Аннины материалы\\Анина учёба\\C sharp education\\lection01\\Example002_sum\\obj\\",
+      "projectPath": "C:\\Users\\Аня\\Desktop\\C sharp training\\c_sharp_training\\Example003_sum\\Example002_sum.csproj",
+      "packagesPath": "C:\\Users\\Аня\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Аня\\Desktop\\C sharp training\\c_sharp_training\\Example003_sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ponch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Аня\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
